@@ -17,3 +17,6 @@ alias knport="'$MYDIR/k8s-port-forward.sh'"
 - `knget` will assist to get resources list (pods/deploy/ing/svc etc)
 - `knlogs` will assist to get logs of a pod 
 - `knport` will assist to forward port of a service or pod
+
+## How to Use
+Just include `alias.sh` into your shell profile(ie. `.zshrc` / `.bashrc`/ `.bash_profile` etc )
