@@ -14,4 +14,5 @@ alias knexec="'$MYDIR/k8s-exec.sh'"
 alias knget="'$MYDIR/k8s-get-pods.sh'"
 alias knlogs="'$MYDIR/k8s-logs.sh'"
 alias knport="'$MYDIR/k8s-port-forward.sh'"
+alias knImageUpdate="'$MYDIR/k8s-image-update.sh'"
 
